@@ -11,6 +11,7 @@ Second, you will has to press the slide to access the code in slide
 
 therefore, you can use the code on pictoblox to try it out!!!
 
+## The reason i build this project
 I joined the Young Inventor Challenge for  the first time around this year because I was curious and wanted to learn something new.
 
 I also had the opportunity to work on this project with my friend, Khim Teck, which made the experience more enjoyable and meaningful.
