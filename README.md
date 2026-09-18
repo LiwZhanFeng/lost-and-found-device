@@ -11,3 +11,12 @@ Second, you will has to press the slide to access the code in slide
 
 therefore, you can use the code on pictoblox to try it out!!!
 
+I joined the Young Inventor Challenge for  the first time around this year because I was curious and wanted to learn something new.
+
+I also had the opportunity to work on this project with my friend, Khim Teck, which made the experience more enjoyable and meaningful.
+
+Although we did not win the competition, I learned a lot from the experience and became more interested in inventing and creating new things.
+
+
+
+
