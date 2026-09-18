@@ -7,6 +7,6 @@ LOST AND FOUND DEVICE
 
 https://docs.google.com/presentation/d/1LsE_PMOeUFkv4msau6G4VDjrV2jTqzi6rBFEL1geM7U/edit?usp=drive_linkhere 
 
-##this is list to teach you how to use my project
+<p align="center">##this is list to teach you how to use my project
 
 
