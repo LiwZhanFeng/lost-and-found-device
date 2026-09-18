@@ -1,6 +1,5 @@
-#2024 project
 
-#lost-and-found-device
+LOST AND FOUND DEVICE 
 
 this is the slide for my project
 
