@@ -9,9 +9,9 @@ https://docs.google.com/presentation/d/1LsE_PMOeUFkv4msau6G4VDjrV2jTqzi6rBFEL1ge
 
 <p align="center">##this is list to teach you how to use my project
 
-First, you has to download the file call svb
+First, you has to download the file call RFID_v4.sb3,which will you see at the top 
 
-second, you will has to press the slide to access the code in slide 
+Second, you will has to press the slide to access the code in slide 
 
-therefore, 
+therefore, you can use the code on pictoblox to try it out!!!!
 
