@@ -17,6 +17,8 @@ I also had the opportunity to work on this project with my friend, Khim Teck, wh
 
 Although we did not win the competition, I learned a lot from the experience and became more interested in inventing and creating new things.
 
+![me and khim teck](IMG_2823.JPG)
+
 
 
 
