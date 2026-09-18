@@ -9,4 +9,5 @@ First, you has to download the file call RFID_v4.sb3,which will you see at the t
 
 Second, you will has to press the slide to access the code in slide 
 
-therefore, you can use the code on pictoblox to try it out!!!!
+therefore, you can use the code on pictoblox to try it out!!!
+
